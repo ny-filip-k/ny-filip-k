@@ -1,4 +1,4 @@
-## Hi there 👋
+## Best Glas-Flex Software Engineer 2026
 
 <!--
 **ny-filip-k/ny-filip-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![profile](./Screenshot%202026-04-22%20101459.png)
